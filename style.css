@@ -1,0 +1,151 @@
+
+.first-cloud{
+    position:absolute;
+    right: 15%;
+     top:2%;
+    width: 200px;
+    height: 100px;
+}
+.second-cloud{
+    position:absolute;
+    margin-top:3%;
+    left: 10%;
+   
+    width: 200px;
+    height: 100px;
+}
+h1{
+    font-size: 5.625rem;
+    margin:50px,auto, 0, auto;
+    color:#290001;
+    font-family: sacramento;
+    top:8%;
+    line-height: 2;
+
+
+}
+.name-head{
+    margin-top:20%;
+    text-align:center;
+
+
+}
+.top-container{
+    background-color:#d08752;
+}
+
+body{
+   
+    font-style: oblique;
+    
+    font-size:20px;
+    margin:0;
+    text-align:center;
+    font-family:
+    text-align: justify;
+    background-color:#d08752;
+}
+.pic{
+    width: 270px;
+    height: 180px;
+    margin:auto;
+    margin-top:15%;
+
+}
+.mountain{
+    width: 950;
+    height:300;
+    margin-top:20%;
+}
+.code-img{
+    width: 150px;
+    margin-right: 100px;
+    float: right;
+    
+}
+.chill-img{
+    width: 150px;
+    margin-left: 100px;
+    float: left;
+}
+h2{
+    padding-bottom:10px;
+    font-weight:normal;
+    color:#373a40;
+
+}
+h3{
+    color:#31112c;
+    font-weight:normal;
+
+}
+
+.middle-container{
+    background-color:#d08752;
+    margin:100px,0;
+}
+.intro{
+    width:30%;
+    margin:auto;
+}
+hr{
+    border: dotted  6px;
+    border-bottom:none;
+    width:4%;
+    margin:100px,auto;
+    color:#373a40;
+}
+.contact-message{
+    text: black;
+    width: 40%;
+    margin: 40px,auto,60px;
+}
+.bottom-container{
+    background-color:#d08752;
+    padding:50px,0,20px;
+
+}
+a{
+    color:
+    margin:10px;
+    
+}
+.touch{
+    margin:0;
+}
+.whatsapp{
+    width:50px;
+    height:30px;
+    display:inline;
+    margin:10px;
+}
+.insta{
+     width:50px;
+    height:30px;
+    display:inline;
+    margin:10px;
+
+}
+.gmail{
+
+     width:50px;
+    height:30px;
+    display:inline;
+    margin:10px;
+
+}
+.contact{
+    width:50px;
+    height:30px;
+    display:inline;
+    margin:10px;
+
+}
+.foot{
+
+    color:white;
+    font-size:small;
+    font-style:normal;
+    font-weight:100;
+    
+}
